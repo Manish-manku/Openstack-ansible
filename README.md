@@ -87,3 +87,9 @@ Get inside horizon container:
 ```bash
 lxc-attach aio1-horizon-container-63d9ffa3
 ```
+#Screenshots
+![Screenshot (21)](https://github.com/user-attachments/assets/c1bfcde4-b09f-45c9-b7be-6b4db7485c25)
+![Screenshot (22)](https://github.com/user-attachments/assets/eafb1da1-d525-44d5-b1f6-cd6b41900d8f)
+
+
+
